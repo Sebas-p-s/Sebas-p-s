@@ -11,3 +11,5 @@ I'm new student about software developer
 
 > Now i'm studying in Sena.
 > By: Me
+
+*I'm trying learn about Py 😖
