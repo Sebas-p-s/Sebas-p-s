@@ -1,16 +1,13 @@
-## Hi there 👋
+##Hello
 
-<!--
-**Sebas-p-s/Sebas-p-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sebastian Pachon 
 
-Here are some ideas to get you started:
+I'm new student about software developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+
+  print("Hello everybody")
+```
+
+> Now i'm studying in Sena.
+> By: Me
