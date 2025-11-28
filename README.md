@@ -11,6 +11,7 @@
 ```python
 
   print("Hello everybody")
+  print("ZZZ")
 ```
 
 > Now i'm studying in Sena.
@@ -18,6 +19,6 @@
 
 ## What am i doing?
 
-* I'm trying learn about Py 😖
+* I'm trying learn about Java
 * I'm trying meet new friends
 * Do my best
