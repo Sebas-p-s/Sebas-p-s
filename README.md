@@ -23,5 +23,6 @@
 * I'm trying meet new friends
 * Do my best
 
-Lenguages: 
+Lenguages:
+
 ![Top Languages](https://vani-stats.vercel.app/api?username=Sebas-p-s&theme=tokyonight)
