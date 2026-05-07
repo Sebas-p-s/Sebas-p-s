@@ -22,3 +22,6 @@
 * I'm trying learn about Java
 * I'm trying meet new friends
 * Do my best
+
+Lenguages: 
+![Top Languages](https://vani-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
